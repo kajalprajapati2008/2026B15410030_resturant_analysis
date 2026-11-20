@@ -1,3 +1,0 @@
-Technology
-numpy
-pandas
